@@ -5,7 +5,7 @@
 [Watch the Demo on YouTube](https://youtu.be/rX7fXu53m48)
 
 # Hosted Website Link
-https://dashing-chebakia-ba0c0a.netlify.app/dashboard
+[https://dashing-chebakia-ba0c0a.netlify.app/dashboard](https://dashing-chebakia-ba0c0a.netlify.app/)
 
 ## Project Overview
 
